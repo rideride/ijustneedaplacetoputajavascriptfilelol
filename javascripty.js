@@ -1,16 +1,3 @@
-
-
-//function func1() {
-  //document.body.innerHTML += "bla blb";
-  //document.getElementById("liveupdate-title").textContent += "This is some text";
-  //document.getElementsByClassName("live-timestamp").textContent += "This is some text";
-  //$( ".live-timestamp" ).append( "Test" );
-  //document.getElementById("liveupdte").textContent += "New text!";
-  //document.getElementById('time.live-timesstamp').appendChild(document.createElement("div"));
-//}
-
-//window.onload = func1;
-
 /**
  * LIVE COUNTING EXTENSION V1.5.3
  * (THIS CODE WAS GENERATED FROM THE TYPESCRIPT .TS FILES IN THE SRC DIRECTORY)
