@@ -1,12 +1,4 @@
-// ==UserScript==
-// @name        time
-// @namespace   time
-// @description time
-// @include     *://*.reddit.com/live/*
-// @version     1
-// @grant       none
-// @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// ==/UserScript==
+
 
 function func1() {
   //document.body.innerHTML += "bla blb";
