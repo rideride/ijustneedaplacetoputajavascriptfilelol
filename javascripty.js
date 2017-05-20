@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name         Response Times
-// @description  Live Counting
-// @author       /u/
-// @namespace    none lol
-// @include      *://*.reddit.com/live/*
-// @exclude      *://*.reddit.com/live/create*
-// @exclude      *://*.reddit.com/live/*/edit*
-// @exclude      *://*.reddit.com/live/*/updates/*
-// @exclude      *://*.reddit.com/live/*/contributors*
-// ==/UserScript==
-
 
 
 (function () {
